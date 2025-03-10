@@ -35,7 +35,4 @@ Analyse des caractéristiques structurelles pour les **9 configurations possible
 ### **3. Étude des graphes valués**  
 Reprise des analyses précédentes pour une **portée de 60 km**, avec un **coût pondéré des arêtes** défini comme le **carré de la distance** entre deux satellites connectés.  
 
-
-
-
-Cette version est plus structurée et plus lisible tout en conservant toutes les informations essentielles. 😊
+😊
